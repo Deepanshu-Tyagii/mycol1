@@ -54,7 +54,7 @@ button {
 <body>
     <div class="login-container">
         <h2>Login</h2>
-        <form method="POST" action="authenticate.php"> <!-- Change action to your authentication script -->
+        <form method="POST" action="authenticate.php">
             <label for="username">Username:</label>
             <input type="text" id="username" name="username" required>
             
