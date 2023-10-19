@@ -1,0 +1,10 @@
+.body{
+   background-color:#06213F
+}
+
+ .card {
+    padding: 10px;
+    margin-top: 20px;
+    border-radius : 10px;
+    box-shadow : rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+ }
